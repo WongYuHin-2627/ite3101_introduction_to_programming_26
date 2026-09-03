@@ -1,1 +1,1 @@
-print("This is " + "a good string")
+print "Hello [your_name]"
