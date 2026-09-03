@@ -1,1 +1,1 @@
-print "Hello [Wong Yu Hin"
+print "Hello"+ "Wong Yu Hin")
