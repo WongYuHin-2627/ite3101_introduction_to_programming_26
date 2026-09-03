@@ -1,4 +1,2 @@
-product = 0 
-reminder = 0
-
-1398%11 == reminder
+product = 1 * 1
+reminder = 1398%11
