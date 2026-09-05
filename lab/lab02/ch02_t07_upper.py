@@ -1,3 +1,3 @@
 parrot = "norwegian blue"
 
-p"parrot".lower()
+"parrot".upper()
