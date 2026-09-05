@@ -1,5 +1,5 @@
 # Assign your variables below, each on its own line!
-set caesar to "Grahan"
+set caesar to "Graham"
 set praline to "John"
 set viking to "Teresa"
 
