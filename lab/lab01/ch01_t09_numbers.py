@@ -1,3 +1,3 @@
 cucumbers = 1
-price_per_cucumber 
-total_cost 
+price_per_cucumber =
+total_cost =
