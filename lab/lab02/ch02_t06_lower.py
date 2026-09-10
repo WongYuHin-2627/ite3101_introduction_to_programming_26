@@ -1,3 +1,4 @@
-parrot = "Norwegian Blue"
+# lab02/ch02_t06_lower.py
 
-print("parrot".lower())
+parrot = "Norwegian Blue"
+print(parrot.lower())
