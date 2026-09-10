@@ -13,4 +13,4 @@ bool_three = 67 > 2
 bool_four = 67 != 67
 
 # Make me true!
-bool_five = 67 = 67
+bool_five = 6 < 7
