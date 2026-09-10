@@ -3,4 +3,4 @@ quest = input("What is your quest? ")
 color = input("What is your favorite color? ")
 
 # Uncomment the below 2 line of code!
-print("Ah, so your name is %, your quest is %, ""and your favorite color is %." % (name, quest, color))
+print("Ah, so your name is %, your quest is %, " "and your favorite color is %." % (name, quest, color))
