@@ -1,10 +1,10 @@
-def using_control_once(67 > 6.7) -> str:
-    if None:
+def using_control_once() -> str:
+    if 67 > 6.7:
         return "Success #1"
 
 
-def using_control_again(6 < 7) -> str:
-    if None:
+def using_control_again() -> str:
+    if 6 < 7:
         return "Success #2"
 
 
