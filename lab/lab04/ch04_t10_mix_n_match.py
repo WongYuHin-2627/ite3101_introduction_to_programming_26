@@ -10,7 +10,7 @@ bool_two = (6 < 67) and (6 < 7)
 bool_three = (67 < 66) or (6 > 7)
 
 # Make me true!
-bool_four = (41 < 67) and "Sigma" == "Diddy"
+bool_four = (41 < 67) or "Sigma" == "Diddy"
 
 # Make me true!
 bool_five = (1092026 > 67) or "I Love" == "Charlie Kirk"
