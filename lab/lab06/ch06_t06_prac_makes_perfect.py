@@ -4,5 +4,5 @@ def cube(n: int):
 
 def by_three(m: int):
    if cube%3
-        r
+        return
     return False
