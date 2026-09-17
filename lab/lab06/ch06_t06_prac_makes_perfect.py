@@ -1,3 +1,5 @@
+from typing import Any
+
 def cube(n: int) -> int:
     return n*n*n
 
