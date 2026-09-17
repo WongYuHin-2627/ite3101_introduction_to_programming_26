@@ -1,1 +1,1 @@
-def 
+def cub(n)
