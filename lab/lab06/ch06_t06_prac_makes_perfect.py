@@ -1,1 +1,1 @@
-def cube(base, exponent)
+def cube(base,base, exponent)
