@@ -1,6 +1,6 @@
 from typing import Any
 
-def cube(n: int) -> int:
+def cube(number: int) -> int:
     return n*n*n
 
 
