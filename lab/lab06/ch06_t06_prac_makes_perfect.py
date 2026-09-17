@@ -1,7 +1,7 @@
 from typing import Any
 
 def cube(number: int) -> int:
-    return n*n*n
+    return number*number*number
 
 
 def by_three(n: int) -> any:
