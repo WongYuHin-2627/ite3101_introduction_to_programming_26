@@ -3,7 +3,7 @@ def cube(n: int):
 
 
 def by_three(n:int):
-    if cube % 3 == 0:
+    if cube % 3 ==0:
         return "cube%3"
     else:
         return False
