@@ -1,8 +1,8 @@
-def cube(n: int): -> int
+def cube(n: int):
    return n*n*n
 
 
-def by_three(m: int): -> int
+def by_three(m: int):
    return cube(m)
        else
     return False
