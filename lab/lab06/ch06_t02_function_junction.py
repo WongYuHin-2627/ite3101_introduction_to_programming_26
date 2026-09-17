@@ -5,6 +5,6 @@
 def spam():
     # Define the spam function above this line.
 
-"""prints 'eggs' """
+"""prints 'eggs' to the console"""
 
     print("Eggs!")
