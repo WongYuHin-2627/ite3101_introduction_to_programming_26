@@ -1,1 +1,1 @@
-def cub(n)
+def cube(base, exponent)
