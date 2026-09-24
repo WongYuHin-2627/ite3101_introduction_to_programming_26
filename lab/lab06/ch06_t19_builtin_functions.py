@@ -1,2 +1,2 @@
-def distance_from_zero(n:int):
+def distance_from_zero():
     if 
