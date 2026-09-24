@@ -1,5 +1,5 @@
-def shut_down(message: str) -> str:
-    return message
+def shut_down(
+   
     if shut_down == "yes":
         return "Shutting down"
     elif shut_down == "no":
