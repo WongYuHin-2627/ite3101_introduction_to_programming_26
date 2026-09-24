@@ -1,8 +1,8 @@
-def shut_down(s:str):
-   
+def shut_down(s: str):
+
     if s == "yes":
         return "Shutting down"
-    elif shut_down === "no":
+    elif s == "no":
         return "Shutdown aborted"
     else:
         return "Sorry"
