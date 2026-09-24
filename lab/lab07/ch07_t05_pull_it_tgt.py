@@ -1,5 +1,5 @@
-def hotel_cost(days: int) -> int:
-    return 140 * (days-1)
+def hotel_cost(nights: int) -> int:
+    return 140 * nights
 
 def plane_ride_cost(city: str) -> int:
     if city == "Charlotte":
@@ -22,4 +22,4 @@ def rental_car_cost(days: int) -> int:
 
 
 def trip_cost(city, days, nights: int):
-    return city + days + (days-1)
+    return city + days + nights
