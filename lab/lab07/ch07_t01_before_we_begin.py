@@ -1,2 +1,2 @@
-def answer(first, second): 
+def answer():
   return True
