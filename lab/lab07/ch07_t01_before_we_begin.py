@@ -1,2 +1,3 @@
-def answer():
-    answer = 42
+def bigger(first, second): 
+  print(max(first, second))
+  return True
