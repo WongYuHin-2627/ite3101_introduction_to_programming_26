@@ -1,2 +1,2 @@
 def distance_from_zero(n):
-    if int(n)
+    if n == int(n) or n == 
