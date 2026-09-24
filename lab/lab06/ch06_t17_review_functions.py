@@ -1,1 +1,1 @@
-def shut_down(input())
+def shut_down(input(int()))
