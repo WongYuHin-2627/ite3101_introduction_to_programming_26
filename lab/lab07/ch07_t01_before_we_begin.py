@@ -1,3 +1,3 @@
 def answer(first, second): 
-  print(max(first, second))
+  print(answer(first, second))
   return True
