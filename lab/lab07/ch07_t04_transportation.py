@@ -15,6 +15,6 @@ def rental_car_cost(days):
     if days < 7:
         return 40 * days
     elif days >= 3:
-        return (100-20%)(40 * days)
+        return (40 * days)
     else:
         return (100-50%)(40 * days)
