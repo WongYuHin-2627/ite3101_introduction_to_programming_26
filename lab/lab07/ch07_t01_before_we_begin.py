@@ -1,3 +1,3 @@
-def answer(42: 42):
+def answer(42: str):
     if answer == 42:
         return True
