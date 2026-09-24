@@ -6,4 +6,3 @@ def shut_down(message: str) -> str:
         return "Shutdown aborted"
     else:
         return "Sorry"
-        return "sorry"
