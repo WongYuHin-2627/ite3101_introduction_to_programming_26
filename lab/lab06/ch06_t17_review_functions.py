@@ -1,6 +1,6 @@
 def shut_down(message:str):
-    if shut_down == s 
-        return 
+    if shut_down == yes
+        return "Shutting down"
     elif:
         return "Shutdown aborted" \
     else:
