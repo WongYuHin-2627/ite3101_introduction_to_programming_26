@@ -14,7 +14,7 @@ def plane_ride_cost(city: str) -> int:
 
 
 def rental_car_cost(days):
-    if days < 7:
+    if days >= 7:
         return (40 * days * 0.5)
     elif days >= 3:
         return (40 * days * 0.8)
