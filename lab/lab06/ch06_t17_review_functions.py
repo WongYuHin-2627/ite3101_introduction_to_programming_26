@@ -1,2 +1,2 @@
 def shut_down(message:str):
-    return message
+    if shut_down == s 
