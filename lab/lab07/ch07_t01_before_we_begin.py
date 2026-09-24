@@ -1,1 +1,2 @@
-def
+def answer(42):
+   
