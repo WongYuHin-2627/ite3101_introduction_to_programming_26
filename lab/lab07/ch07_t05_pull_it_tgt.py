@@ -21,5 +21,5 @@ def rental_car_cost(days: int) -> int:
     return cost
 
 
-def trip_cost(city, days, nights: int):
-    rental_car_cost(days), hotel_cost(days - 1), and plane_ride_cost(city)
+def trip_cost(money: int):
+   money = rental_car_cost(days), hotel_cost(days - 1), and plane_ride_cost(city)
