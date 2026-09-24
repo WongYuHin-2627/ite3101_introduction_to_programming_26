@@ -35,4 +35,5 @@ def trip_cost(city: str, days: int, spending_money: int = 0) -> int:
 if __name__ == '__main__':
     # Change below line
     spending_money == 
+    days = input(int())
     print(trip_cost)
