@@ -1,3 +1,3 @@
-def bigger(first, second): 
+def answer(first, second): 
   print(max(first, second))
   return True
