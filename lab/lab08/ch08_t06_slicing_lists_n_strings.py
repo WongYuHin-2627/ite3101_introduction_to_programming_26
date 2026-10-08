@@ -1,7 +1,7 @@
 animals = "catdogfrog"
 
 # The first three characters of animals
-cat = animals[:2]
+cat = animals[]
 
 # The fourth through sixth characters
 dog = animals
