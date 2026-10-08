@@ -3,6 +3,6 @@ square_list = []
 
 # Your code here!
 for number in start_list:
-    sq
+    start_list.append
 
 print(square_list)
