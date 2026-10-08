@@ -3,4 +3,4 @@ my_list = [1, 9, 3, 8, 5, 7]
 for number in my_list:
     # Your code here
     my_list == 2 * number
-    print(my_list[1,2,3,4,5])
+    print(my_list)
