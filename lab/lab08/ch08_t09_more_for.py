@@ -1,5 +1,5 @@
 start_list = [5, 3, 1, 2, 4]
-stat
+start_list.sort()
 square_list = []
 
 # Your code here!
