@@ -1,4 +1,5 @@
 start_list = [5, 3, 1, 2, 4]
+stat
 square_list = []
 
 # Your code here!
