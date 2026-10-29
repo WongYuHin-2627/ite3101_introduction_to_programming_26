@@ -15,7 +15,7 @@ prices = {
 }
 
 # Write your code below!
-def compute_bill(food):
+def compute_bill(x):
     total = 0
     for x in shopping_list:
 
