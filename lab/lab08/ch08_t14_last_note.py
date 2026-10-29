@@ -12,5 +12,5 @@ inventory['burlap bag'] = ['apple', 'small ruby', 'three-toed sloth']
 inventory['pouch'].sort()
 
 # Your code here
-inventory['pocket'] = ['apple', 'small ruby', 'three-toed sloth']
+inventory['pocket'] = ['seashell', 'strange berry','lint']
 backpack.remove('dagger')
