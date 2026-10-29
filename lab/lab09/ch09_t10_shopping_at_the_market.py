@@ -1,1 +1,3 @@
- groceries with the values "banana", "orange", and "apple"
+ groceries={
+  
+ }"banana", "orange", and "apple"
