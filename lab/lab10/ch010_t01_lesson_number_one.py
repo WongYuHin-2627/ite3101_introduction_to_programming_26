@@ -1,8 +1,8 @@
 lloyd{
-    "name" = "lloyd"
-"homework",
- "quizzes",
-   and "tests"
+    "name" : "lloyd"
+    "homework":[],
+    "quizzes":[],
+    "tests":[]
 
 
 }"":"name", "alice", "tyler"
