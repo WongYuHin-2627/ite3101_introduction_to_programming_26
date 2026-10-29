@@ -1,0 +1,1 @@
+ groceries with the values "banana", "orange", and "apple"
