@@ -2,4 +2,4 @@
 fizz_count(x)
 count=0
 for n in numbers:
-    total
+    count = count + 1 
