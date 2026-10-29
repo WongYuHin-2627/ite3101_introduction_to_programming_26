@@ -1,7 +1,7 @@
 # Write your function below!
-fizz_count(number):
+fizz_count(x):
   count = 0
-   for number in x:
+   for n in x:
         if n == "fizz":
             count = count + 1
     return count
