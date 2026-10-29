@@ -18,5 +18,5 @@ for key in prices:
 
 total = 0
 for x in prices:
-    total = x[prices] * x[stock]
+    
 print total
