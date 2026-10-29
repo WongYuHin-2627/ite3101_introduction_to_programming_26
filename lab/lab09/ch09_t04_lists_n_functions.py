@@ -1,5 +1,5 @@
 # Write your function below!
-fizz_count(x)
+fizz_count(x):
 count = 0
 for n in numbers:
     count = count + 1
