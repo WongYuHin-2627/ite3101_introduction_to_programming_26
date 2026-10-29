@@ -1,10 +1,18 @@
 lloyd{
-    "name" : "lloyd"
+    "name" : "Lloyd"
     "homework":[],
     "quizzes":[],
     "tests":[]
-
 }
-
-alice
-tyler
+alice{
+    "name" : "Alice"
+    "homework":[],
+    "quizzes":[],
+    "tests":[]
+}
+tyler{
+    "name" : "Tylor"
+    "homework":[],
+    "quizzes":[],
+    "tests":[]
+}
