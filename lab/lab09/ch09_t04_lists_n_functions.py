@@ -1,4 +1,5 @@
 # Write your function below!
 fizz_count(x)
 count=0
-for n in numbers 
+for n in numbers:
+    total
