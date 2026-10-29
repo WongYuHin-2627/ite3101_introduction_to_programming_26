@@ -6,6 +6,5 @@ lloyd{
 
 }
 
-"alice
-"":"name", ", "tyler"
-"name", "homework", "quizzes", and "tests"
+alice
+tyler
