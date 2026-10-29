@@ -1,7 +1,7 @@
 # Write your function below!
 fizz_count(number):
   count = 0
-   for n in x:
+   for number in x:
         if n == "fizz":
             count = count + 1
     return count
