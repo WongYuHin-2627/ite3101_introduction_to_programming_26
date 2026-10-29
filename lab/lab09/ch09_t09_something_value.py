@@ -18,6 +18,6 @@ for key in prices:
 
 total = 0
 for key in prices:
-    total = price: %s" % prices[key]
-    
+    total = price: % s" % prices[key] * stock: %s" % stock[key]
+
 print total
