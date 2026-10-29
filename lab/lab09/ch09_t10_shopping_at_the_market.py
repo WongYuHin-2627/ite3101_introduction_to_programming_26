@@ -1,3 +1,3 @@
  groceries={
   
- }"banana", "orange", and "apple"
+"banana", "orange", and "apple" }
