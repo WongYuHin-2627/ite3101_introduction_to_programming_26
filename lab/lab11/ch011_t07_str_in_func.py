@@ -1,6 +1,6 @@
 n = "Hello"
 # Your function here!
-def 
+def string_function(n)
 
 # print(string_function(n))
 print(string_function(n))
