@@ -5,3 +5,4 @@ def add_function(x: int, y: int) -> int
 
 
 # print(add_function(m, n))
+print(add_function(m, n))
