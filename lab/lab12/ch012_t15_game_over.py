@@ -42,7 +42,7 @@ for turn in range(4):
             print("You guessed that one already.")
         else:
             print("You missed my battleship!")
-        if guess_row = 3 
-            print "Game Over"
             board[guess_row][guess_col] = "X"
+                    if turn == 3:
+            print("Game Over")
         print_board(board)
