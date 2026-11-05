@@ -5,4 +5,5 @@ for i in range(0, len(n)):
 # Don't forget to return your new list!
     return n
 # print(double_list(n))
+def double_list(x:list)
 print(double_list(n))
