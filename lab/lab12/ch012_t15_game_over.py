@@ -33,7 +33,8 @@ for turn in range(4):
     if turn > 0:
         guess_row = int(input("Guess Row: "))
         guess_col = int(input("Guess Col: "))
-
+     if turn == 3:
+        print("Game Over")
     if guess_row == ship_row and guess_col == ship_col:
         print("Congratulations! You sank my battleship!")
         break
