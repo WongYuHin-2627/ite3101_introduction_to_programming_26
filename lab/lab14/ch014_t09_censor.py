@@ -4,7 +4,8 @@ def scrabble_score(word):
              "l": 1, "o": 1, "n": 1, "q": 10, "p": 3, "s": 1,
              "r": 1, "u": 1, "t": 1, "w": 4, "v": 4, "y": 4,
              "x": 8, "z": 10}
-    total = 0
-    for char in word.lower():
-        total += score[char]
-    return total
+
+total = 0
+for char in word.lower():
+    total += score[char]
+return total
