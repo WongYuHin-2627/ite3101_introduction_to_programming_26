@@ -6,13 +6,5 @@ score = {"a": 1, "c": 3, "b": 3, "e": 1, "d": 2, "g": 2,
 
 
 def censor(text, word):
-    result = []
-    i = 0
-    while i < len(text):
-        if text[i:i + len(word)] == word:
-            result.append("*" * len(word))
-            i += len(word)
-        else:
-            result.append(text[i])
-            i += 1
-    return "".join(result)
+    words = text.split()
+    return " ".join("*" * len(word) if w == word else w for w in words)
