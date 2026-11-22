@@ -25,10 +25,3 @@ def grades_average(grades_input: List[float]) -> float:
 
 
 print(grades_average(grades))
-def grades_average(grades_input: List[float]) -> float:
-    sum_of_grades = grades_sum(grades_input)
-    average = sum_of_grades / float(len(grades_input))
-    return average
-
-
-print(grades_average(grades))
