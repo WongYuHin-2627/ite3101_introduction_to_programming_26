@@ -3,8 +3,5 @@ d = {'a': 'apple', 'b': 'berry', 'c': 'cherry'}
 for key in d:
     # Your code here!
     pass
-print(key, d[key])
-d = {'a': 'apple', 'b': 'berry', 'c': 'cherry'}
-
-for key in d:
     print(key, d[key])
+    break
