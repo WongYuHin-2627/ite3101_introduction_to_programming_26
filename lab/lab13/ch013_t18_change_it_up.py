@@ -8,11 +8,3 @@ for f in fruits:
     print('A', f)
 else:
     print('A fine selection of fruits!')
-print("You have...")
-
-for fruit in fruits:
-    if fruit == "tomato":
-        print("A tomato is not a fruit!")
-    print("A", fruit)
-
-print("A fine selection of fruits!")
